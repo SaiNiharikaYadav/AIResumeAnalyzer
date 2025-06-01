@@ -1,5 +1,5 @@
 # AIResumeAnalyzer
-About the Project 🥱
+About the Project 
 A tool that parses information from resumes using NLP, identifies keywords, clusters them by sector, and provides recommendations, predictions, and analytics to applicants or recruiters.
 
 Scope 
