@@ -44,13 +44,13 @@ Form submission
 Rating system
 Comment history
 
-Requirements 😅
+Requirements 
 Python 3.9.12
 MySQL
 Visual Studio Code
 Visual Studio Build Tools (C++)
-Setup & Installation 🙄
 
+Setup & Installation 
 git clone https://github.com/SaiNiharikaYadav/AI-Resume-Analyzer.git
 
 Create virtual environment and activate it:
